@@ -5,8 +5,8 @@
     
     <entry>
       <title>个人及网站内容说明</title>
-      <link href="/2023/03/18/%E7%BD%AE%E9%A1%B6%E6%96%87%E7%AB%A0/"/>
-      <url>/2023/03/18/%E7%BD%AE%E9%A1%B6%E6%96%87%E7%AB%A0/</url>
+      <link href="/2023/03/18/%E4%BA%A7%E5%93%81%E8%A7%82%E5%BF%B5/"/>
+      <url>/2023/03/18/%E4%BA%A7%E5%93%81%E8%A7%82%E5%BF%B5/</url>
       
         <content type="html"><![CDATA[<blockquote><p>hello world!<br>‍</p></blockquote>]]></content>
       
@@ -122,25 +122,6 @@
       <categories>
           
           <category> 项目管理 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>数学建模</title>
-      <link href="/2022/12/09/%E6%95%B0%E5%AD%A6%E6%80%9D%E7%BB%B4/"/>
-      <url>/2022/12/09/%E6%95%B0%E5%AD%A6%E6%80%9D%E7%BB%B4/</url>
-      
-        <content type="html"><![CDATA[<p>迄今为止，我对数学的理解如下:</p><blockquote><p>数学是一种思想的推理，这种思想是可以很随意的，每种思想构建一种集合，在具体的某一个集合中，有从属于集合内的关系法则，通过这些法则可以推理出一些有意思的东西。而为了表达方便，往往将这个集合的关系法则建立一个符号算式，方便计算。</p></blockquote><p>当我们熟悉了思想概念之后，就可以此来粘连现实世界，即应用数学。</p><p>这里以极限来举例子。</p><p>极限是一个思想实验，在空间上的表示就是一个无限的过程，而将这个空间关系转为符号语言，则是分析的代数表达式。当我们现实世界中的具体事项有极限的概念，就可以用极限的数学表达式来推理现实世界了。</p><p>另外，就<strong>计算工具</strong>而言，我们的古人发明了算盘来简化计算的过程，现在更是方便，计算机的应用，使推理变的十分简单。</p><p>‍</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 产品营销 </category>
           
       </categories>
       
