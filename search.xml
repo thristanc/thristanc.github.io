@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title>个人及网站内容说明</title>
-      <link href="/2023/03/18/%E4%BA%A7%E5%93%81%E8%A7%82%E5%BF%B5/"/>
-      <url>/2023/03/18/%E4%BA%A7%E5%93%81%E8%A7%82%E5%BF%B5/</url>
-      
-        <content type="html"><![CDATA[<blockquote><p>hello world!<br>‍</p></blockquote>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>草图沟通</title>
       <link href="/2023/02/07/%E7%BB%98%E7%94%BB%E7%AC%94%E8%AE%B0/"/>
       <url>/2023/02/07/%E7%BB%98%E7%94%BB%E7%AC%94%E8%AE%B0/</url>
@@ -74,11 +61,11 @@
     
     
     <entry>
-      <title>互联网推广</title>
-      <link href="/2023/01/09/%E4%BA%92%E8%81%94%E7%BD%91%E6%8E%A8%E5%B9%BF/"/>
-      <url>/2023/01/09/%E4%BA%92%E8%81%94%E7%BD%91%E6%8E%A8%E5%B9%BF/</url>
+      <title>获取信息</title>
+      <link href="/2023/01/09/%E8%8E%B7%E5%8F%96%E4%BF%A1%E6%81%AF/"/>
+      <url>/2023/01/09/%E8%8E%B7%E5%8F%96%E4%BF%A1%E6%81%AF/</url>
       
-        <content type="html"><![CDATA[<p>互联网广告涉及到的三方：平台、商家、用户</p><p>三方的诉求分别是：平台和商家要多赚钱，用户要买到合意的商品。</p><p>换句话说，就是产品和用户需求的相关性，用户买该产品的意愿足够强烈，才能让商家多赚钱。而该意愿通过预估点击率和预估转化率来表示，这两个数值是由对于产品之于目标用户的历史销售情况换算出来的，它们乘积越高，代表了产品的和用户的预估相关性越高，平台愿意为历史销售情况好的商品分配更多的用户流量。</p><p>更进一步的，平台是要赚取商家的钱，假设，有两个商家的产品都买的很好，那么，两个商家谁的出价高，平台就更愿意展现谁的产品。</p><p>综合上述情况，得到基本公式：</p><p>ECPM(effective cost per mille) &#x3D; 预估点击率 * 预估转化率 * 出价</p><p>并以此作为互联网推广展现的基础。而ecpm可以理解为平台对商家推广的支持水平。</p><p>需要注意的是，上述是一个理想化的过程。现实中产品和广告，被推广到合适的用户是一个复杂的过程，而这个过程被平台交给人工智能（AI）去操作了。</p><p>大致是这么一个过程：AI根据我们的定向，把产品投放到该人群中，如果该人群中有人对商家的产品反馈良好，那么AI就会抽象出该人群的特点，并将产品投放到有这些特点的人群中。</p><p>‍</p><p>‍</p>]]></content>
+        <content type="html"><![CDATA[<p>#获取信息的手段<br>获取信息主要有两种手段：</p><table><thead><tr><th align="left">手段</th><th align="left">特点</th></tr></thead><tbody><tr><td align="left">实验法</td><td align="left">通过对象对某一行为的反应变化来获取信息</td></tr><tr><td align="left">观察法</td><td align="left">观察对象来获取信息</td></tr></tbody></table><p>其中，观察法是最简单的了，没有什么刺激行为，可以直接在那里观察对象，或者给对象做一个问卷调查，都是直接地获得反馈。</p><p>而实验法强调一个刺激行为，你给研究对象施加了一个影响，在这个影响之下，对象就会做出反应变化，通过对这个反应变化来获得该对象的信息。</p><p>方法说白了是很简单的，但麻烦的是与研究对象建立联系，因为没有联系，就无法实验和观测。</p><p>下面以互联网推广来说明。</p><h1 id="互联网推广"><a href="#互联网推广" class="headerlink" title="互联网推广"></a>互联网推广</h1><p>互联网广告涉及到的三方：平台、商家、用户</p><p>三方的诉求分别是：平台和商家要多赚钱，用户要买到合意的商品。</p><p>换句话说，就是产品和用户需求的相关性，用户买该产品的意愿足够强烈，才能让商家多赚钱。而该意愿通过预估点击率和预估转化率来表示，这两个数值是由对于产品之于目标用户的历史销售情况换算出来的，它们乘积越高，代表了产品的和用户的预估相关性越高，平台愿意为历史销售情况好的商品分配更多的用户流量。</p><p>更进一步的，平台是要赚取商家的钱，假设，有两个商家的产品都买的很好，那么，两个商家谁的出价高，平台就更愿意展现谁的产品。</p><p>综合上述情况，得到基本公式：</p><p>ECPM(effective cost per mille) &#x3D; 预估点击率 * 预估转化率 * 出价</p><p>并以此作为互联网推广展现的基础。而ecpm可以理解为平台对商家推广的支持水平。</p><p>需要注意的是，上述是一个理想化的过程。现实中产品和广告，被推广到合适的用户是一个复杂的过程，而这个过程被平台交给人工智能（AI）去操作了。</p><p>大致是这么一个过程：AI根据我们的定向，把产品投放到该人群中，如果该人群中有人对商家的产品反馈良好，那么AI就会抽象出该人群的特点，并将产品投放到有这些特点的人群中。</p><p>在上述过程中，我们可以对产品的投放施加影响，比如更换投放人群、更换营销卖点等，之后就能获得目标用户的反馈，从而判断之前的决策是否有效。而与用户的联系建立方式很简单，通过平台沉淀出数据即可。</p><p>‍</p><p>‍</p>]]></content>
       
       
       <categories>
@@ -97,7 +84,7 @@
       <link href="/2023/01/09/%E7%AB%9E%E4%BA%89%E6%80%A7%E5%81%87%E8%AE%BE%E5%88%86%E6%9E%90%E6%B3%95/"/>
       <url>/2023/01/09/%E7%AB%9E%E4%BA%89%E6%80%A7%E5%81%87%E8%AE%BE%E5%88%86%E6%9E%90%E6%B3%95/</url>
       
-        <content type="html"><![CDATA[<h1 id="问题的确定"><a href="#问题的确定" class="headerlink" title="问题的确定"></a>问题的确定</h1><h1 id="考虑与问题相关的假设"><a href="#考虑与问题相关的假设" class="headerlink" title="考虑与问题相关的假设"></a>考虑与问题相关的假设</h1><ul><li>组织一队拥有不同观点的分析人员对各种可能性开展头脑风暴。</li></ul><h1 id="建立矩阵"><a href="#建立矩阵" class="headerlink" title="建立矩阵"></a>建立矩阵</h1><ul><li>列出证据</li><li>标注证据与假设的相关性</li></ul><table><thead><tr><th align="left">证据</th><th align="left">假设1</th><th align="left">假设2</th><th align="left">假设3</th></tr></thead><tbody><tr><td align="left">证据1</td><td align="left">相关</td><td align="left">相关</td><td align="left">相关</td></tr><tr><td align="left">证据2</td><td align="left">相关</td><td align="left">不相关</td><td align="left">不相关</td></tr><tr><td align="left">证据3</td><td align="left">特别不相关</td><td align="left">相关</td><td align="left">相关</td></tr></tbody></table><h1 id="精简矩阵"><a href="#精简矩阵" class="headerlink" title="精简矩阵"></a>精简矩阵</h1><ul><li>剔除那些不具有任何诊断价值的证据，留下那些在判断假设的相对可能性时最为有效的证据 </li><li>当具有高诊断价值的证据确实被找到后，它们就应该成为我们形成判断的主要依据</li><li>考虑，为涵盖所有选项，是否需要添加新的假设？如果假设之间证据的区别很少，是否要合并假设？</li><li>重新检查某些证据的准确性，或者考虑做出不同的解释</li></ul><p>在上述例子中：</p><ul><li>证据1没有任何诊断价值</li><li>证据2和证据3有矛盾，有诊断价值</li><li>假设2和假设3的证据之间区别少，考虑合并</li></ul><p>精简后矩阵为：</p><table><thead><tr><th align="left">证据</th><th align="left">假设1</th><th align="left">假设2+3</th></tr></thead><tbody><tr><td align="left">证据2</td><td align="left">相关</td><td align="left">不相关</td></tr><tr><td align="left">证据3</td><td align="left">特别不相关</td><td align="left">相关</td></tr></tbody></table><h1 id="对每个假设进行整体研究"><a href="#对每个假设进行整体研究" class="headerlink" title="对每个假设进行整体研究"></a>对每个假设进行整体研究</h1><ul><li>尝试通过证据来证伪假设，并以此来对各假设的可能性得出暂时的结论</li><li>应当找那些能够否定或者至少认定某假设可能性极小的证据</li><li>考虑增加之前忽略的东西</li></ul><h1 id="质疑"><a href="#质疑" class="headerlink" title="质疑"></a>质疑</h1><ul><li>思考当关键证据出现错误、误导或适用于不同解释时会对分析产生什么后果</li></ul><h1 id="汇总"><a href="#汇总" class="headerlink" title="汇总"></a>汇总</h1><ul><li>讨论所有假设的相对可能性</li><li>确立应急或补救预案，以防某个可能性较小的情况最后真的发生了</li><li>明确未来观察中应该注意的标志性信息，它可能预示事件正朝着预料之外的方向发展</li></ul><p>‍</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="问题的确定"><a href="#问题的确定" class="headerlink" title="问题的确定"></a>问题的确定</h1><p>所有的事情开始于一个问题，问题要明确具体，这样才能通过问题这个点串联出其它内容。</p><h1 id="考虑与问题相关的假设"><a href="#考虑与问题相关的假设" class="headerlink" title="考虑与问题相关的假设"></a>考虑与问题相关的假设</h1><ul><li>组织一队拥有不同观点的分析人员对各种可能性开展头脑风暴</li><li>确定各种与问题相关的假设</li></ul><h1 id="建立矩阵"><a href="#建立矩阵" class="headerlink" title="建立矩阵"></a>建立矩阵</h1><ul><li>列出证据</li><li>标注证据与假设的相关性</li></ul><table><thead><tr><th align="left">证据</th><th align="left">假设1</th><th align="left">假设2</th><th align="left">假设3</th></tr></thead><tbody><tr><td align="left">证据1</td><td align="left">相关</td><td align="left">相关</td><td align="left">相关</td></tr><tr><td align="left">证据2</td><td align="left">相关</td><td align="left">不相关</td><td align="left">不相关</td></tr><tr><td align="left">证据3</td><td align="left">特别不相关</td><td align="left">相关</td><td align="left">相关</td></tr></tbody></table><h1 id="精简矩阵"><a href="#精简矩阵" class="headerlink" title="精简矩阵"></a>精简矩阵</h1><ul><li>剔除那些不具有任何诊断价值的证据，留下那些在判断假设的相对可能性时最为有效的证据 </li><li>当具有高诊断价值的证据确实被找到后，它们就应该成为我们形成判断的主要依据</li><li>考虑，为涵盖所有选项，是否需要添加新的假设？如果假设之间证据的区别很少，是否要合并假设？</li><li>重新检查某些证据的准确性，或者考虑做出不同的解释</li></ul><p>在上述例子中：</p><ul><li>证据1没有任何诊断价值</li><li>证据2和证据3有矛盾，有诊断价值</li><li>假设2和假设3的证据之间区别少，考虑合并</li></ul><p>精简后矩阵为：</p><table><thead><tr><th align="left">证据</th><th align="left">假设1</th><th align="left">假设2+3</th></tr></thead><tbody><tr><td align="left">证据2</td><td align="left">相关</td><td align="left">不相关</td></tr><tr><td align="left">证据3</td><td align="left">特别不相关</td><td align="left">相关</td></tr></tbody></table><h1 id="对每个假设进行整体研究"><a href="#对每个假设进行整体研究" class="headerlink" title="对每个假设进行整体研究"></a>对每个假设进行整体研究</h1><ul><li>尝试通过证据来证伪假设，并以此来对各假设的可能性得出暂时的结论</li><li>应当找那些能够否定或者至少认定某假设可能性极小的证据</li><li>考虑增加之前忽略的东西</li></ul><h1 id="质疑"><a href="#质疑" class="headerlink" title="质疑"></a>质疑</h1><ul><li>思考当关键证据出现错误、误导或适用于不同解释时会对分析产生什么后果</li></ul><h1 id="汇总"><a href="#汇总" class="headerlink" title="汇总"></a>汇总</h1><ul><li>讨论所有假设的相对可能性</li><li>确立应急或补救预案，以防某个可能性较小的情况最后真的发生了</li><li>明确未来观察中应该注意的标志性信息，它可能预示事件正朝着预料之外的方向发展，并可能验证或更新某些假设</li></ul><p>‍</p>]]></content>
       
       
       <categories>
